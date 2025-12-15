@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Introduction
-
 Frontend Developer with a strong focus on building structured, scalable, and maintainable web applications.
 I primarily work with React and Next.js, and I am actively strengthening my backend and database fundamentals
 to reach full-stack proficiency.
@@ -59,6 +57,8 @@ concerns, and production-oriented workflows.
 
 - **postgresql-erd-practice**  
   ERD to PostgreSQL implementation using pure SQL (DDL & DML)
+- **react-unit-test-examples**  
+  Practical examples of unit testing React components using Jest and React Testing Library
 
 ---
 
